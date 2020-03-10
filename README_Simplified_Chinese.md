@@ -2,7 +2,7 @@
 
 > 译者注：
 >
-> 本项目[face_recognition](https://github.com/ageitgey/face_recognition)是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。
+> 本项目[face_recognition]的(https://github.com/ageitgey/face_recognition)是一个强大、简单、易上手的人脸识别开源项目，并且配备了完整的开发文档和应用案例，特别是兼容树莓派系统。
 >
 > 为了便于中国开发者研究学习人脸识别、贡献代码，我将本项目README文件翻译成中文。
 >
